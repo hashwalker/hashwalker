@@ -26,9 +26,3 @@ Building a Python cryptographic library from scratch:
 **Modes of Operation:** ECB, CBC, CFB, OFB, CTR, GCM ✅  
 **Design:** Modular - same modes work with all ciphers
 
-## 🦍 Very important Fact.
-
-100 cryptographers vs 1 gorilla? The gorilla wins every time.
-
----
-**May the Force be with you!** 
