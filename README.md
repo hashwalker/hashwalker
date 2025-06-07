@@ -16,12 +16,12 @@ Building a Python cryptographic library from scratch:
 - MARS ✅
 
 **Cipher I'm working on:**
-- Serpent 🚧
+- Threefish 🚧
 
 **Ciphers I plan to add:**
 - Camellia ❌
 - Twofish ❌
-- Threefish ❌
+- Serpent ❌
 
 **Modes of Operation:** ECB, CBC, CFB, OFB, CTR, GCM ✅  
 **Design:** Modular - same modes work with all ciphers
