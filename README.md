@@ -15,7 +15,7 @@ Building a Python cryptographic library from scratch:
 - AES ✅
 
 **Cipher I'm working on:**
-- MARS 🚧
+- MARS ✅
 
 **Ciphers I plan to add:**
 - Camellia ❌
