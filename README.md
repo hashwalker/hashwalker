@@ -13,13 +13,13 @@ Building a Python cryptographic library from scratch:
 
 **Ciphers I've implemented:**
 - AES ✅
+- MARS ✅
 
 **Cipher I'm working on:**
-- MARS ✅
+- Serpent 🚧
 
 **Ciphers I plan to add:**
 - Camellia ❌
-- Serpent ❌
 - Twofish ❌
 - Threefish ❌
 
