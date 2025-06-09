@@ -14,14 +14,14 @@ Building a Python cryptographic library from scratch:
 **Ciphers I've implemented:**
 - AES ✅
 - MARS ✅
+- Threefish ✅
 
 **Cipher I'm working on:**
-- Threefish 🚧
+- Serpent 🚧
 
 **Ciphers I plan to add:**
 - Camellia ❌
 - Twofish ❌
-- Serpent ❌
 
 **Modes of Operation:** ECB, CBC, CFB, OFB, CTR, GCM ✅  
 **Design:** Modular - same modes work with all ciphers
