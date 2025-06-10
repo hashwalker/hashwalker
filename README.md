@@ -1,28 +1,35 @@
-# Hi! 👋 I'm HashWalker
+# HashWalker
 
-I like programming. Currently building a comprehensive encryption library with support for a variety of ciphers.
+Software developer focused on cryptography, cybersecurity, and security research.
 
-## 🛠️ Languages I Know
-- **Python** - Primary development language
-- **C/C++** - Performance-critical implementations
-- **Assembly** - Low-level optimization when needed
+## Skills
 
-## 🔐 Current Project: JediCrypt
+Building cryptographic libraries and security tools from scratch. Experience with malware analysis, penetration testing, and low-level programming.
 
-Building a Python cryptographic library from scratch:
+## Programming Languages
 
-**Ciphers I've implemented:**
-- AES ✅
-- MARS ✅
-- Threefish ✅
+- **Python** - Cryptographic libraries and security tools
+- **C/C++** - System programming and performance optimization  
+- **Assembly** - Low-level code and reverse engineering
 
-**Cipher I'm working on:**
-- Serpent 🚧
+## Current Project: KatCrypt
 
-**Ciphers I plan to add:**
-- Camellia ❌
-- Twofish ❌
+Developing a pure Python cryptographic library implementing multiple block ciphers and encryption modes from scratch.
 
-**Modes of Operation:** ECB, CBC, CFB, OFB, CTR, GCM ✅  
-**Design:** Modular - same modes work with all ciphers
+**Implemented Algorithms:**
+- AES (Advanced Encryption Standard)
+- MARS (IBM AES competition finalist)
+- Threefish (Skein hash function block cipher)
 
+**In Development:**
+- Serpent block cipher
+
+**Planned Implementations:**
+- Camellia
+- Twofish
+- ChaCha20
+
+**Architecture:**
+- Multiple encryption modes (ECB, CBC, CFB, OFB, CTR, GCM)
+- Clean API design across all ciphers
+- Test vectors from official standards
